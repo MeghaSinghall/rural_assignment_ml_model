@@ -1,0 +1,4 @@
+Farmer,Probability of Default (%),Risk Category,Model Signal,Threshold
+Lower-risk farmer,19.96,Low,Lower default-risk signal,0.29999999999999993
+Moderate-risk farmer,37.91,Medium,Higher default-risk signal,0.29999999999999993
+Higher-risk farmer,76.1,High,Higher default-risk signal,0.29999999999999993
